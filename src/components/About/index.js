@@ -17,7 +17,7 @@ const About = () => (
         <>
           <Navbar />
           <div className={`${divHome}`}>
-            <img src={imgHome} className="homeImg" alt="home" />
+            <img src={imgHome} className="homeImg" alt="about" />
             <h1 className={`${classHome}`}>About</h1>
           </div>
         </>
